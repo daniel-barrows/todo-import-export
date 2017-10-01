@@ -1,20 +1,12 @@
-++++++++++++++++++++++++++++++
- todo-import-export ver 0.1.0
-++++++++++++++++++++++++++++++
+# todo-import-export version 0.1.0
 
-:Credits: Copyright (c) Daniel Barrows 2017
-:Licence: GPLv3+
-:Status: beta
-:Tags: task management
-
-## What is this?
 A collection of tools to import and export between different task manager applications.
 
 ## Installation
-None
-###Runtime Dependencies
-todo-import-export depends on [Ruby](https://www.ruby-lang.org/en/) and the [Hpricot](https://github.com/hpricot/hpricot) library. To install Hpricot,
-try gem install --user hpricot.
+There is currently no installation of todo-import-export itself. However,
+todo-import-export depends on [Ruby](https://www.ruby-lang.org/en/) and the
+[Hpricot](https://github.com/hpricot/hpricot) library at runtime.
+To install Hpricot, try `gem install --user hpricot`
 
 ## Usage
 1. Go to https://myhomeworkapp.com/home in your browser.
